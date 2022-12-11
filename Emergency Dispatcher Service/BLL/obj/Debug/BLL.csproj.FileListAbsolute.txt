@@ -1,0 +1,14 @@
+D:\12th semester(2022-2023, Fall)\Final\ADV.NET\LAB\Emergency Dispatcher Service\BLL\bin\Debug\BLL.dll
+D:\12th semester(2022-2023, Fall)\Final\ADV.NET\LAB\Emergency Dispatcher Service\BLL\bin\Debug\BLL.pdb
+D:\12th semester(2022-2023, Fall)\Final\ADV.NET\LAB\Emergency Dispatcher Service\BLL\bin\Debug\AutoMapper.dll
+D:\12th semester(2022-2023, Fall)\Final\ADV.NET\LAB\Emergency Dispatcher Service\BLL\bin\Debug\DAL.dll
+D:\12th semester(2022-2023, Fall)\Final\ADV.NET\LAB\Emergency Dispatcher Service\BLL\bin\Debug\EntityFramework.dll
+D:\12th semester(2022-2023, Fall)\Final\ADV.NET\LAB\Emergency Dispatcher Service\BLL\bin\Debug\DAL.pdb
+D:\12th semester(2022-2023, Fall)\Final\ADV.NET\LAB\Emergency Dispatcher Service\BLL\bin\Debug\DAL.dll.config
+D:\12th semester(2022-2023, Fall)\Final\ADV.NET\LAB\Emergency Dispatcher Service\BLL\bin\Debug\AutoMapper.xml
+D:\12th semester(2022-2023, Fall)\Final\ADV.NET\LAB\Emergency Dispatcher Service\BLL\bin\Debug\EntityFramework.xml
+D:\12th semester(2022-2023, Fall)\Final\ADV.NET\LAB\Emergency Dispatcher Service\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\12th semester(2022-2023, Fall)\Final\ADV.NET\LAB\Emergency Dispatcher Service\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\12th semester(2022-2023, Fall)\Final\ADV.NET\LAB\Emergency Dispatcher Service\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\12th semester(2022-2023, Fall)\Final\ADV.NET\LAB\Emergency Dispatcher Service\BLL\obj\Debug\BLL.dll
+D:\12th semester(2022-2023, Fall)\Final\ADV.NET\LAB\Emergency Dispatcher Service\BLL\obj\Debug\BLL.pdb
